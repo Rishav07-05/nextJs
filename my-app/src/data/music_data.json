@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Next.js Mastery Course",
+      "slug": "nextjs-mastery",
+      "description": "Learn Next.js from scratch to advanced with hands-on projects.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://example.com/nextjs-course.jpg"
+    },
+    {
+      "id": 2,
+      "title": "React for Beginners",
+      "slug": "react-for-beginners",
+      "description": "A beginner-friendly guide to mastering React.js.",
+      "price": 39.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://example.com/react-course.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack MERN Bootcamp",
+      "slug": "mern-bootcamp",
+      "description": "Learn MongoDB, Express.js, React, and Node.js in a complete bootcamp.",
+      "price": 79.99,
+      "instructor": "David Miller",
+      "isFeatured": true,
+      "image": "https://example.com/mern-course.jpg"
+    },
+    {
+      "id": 4,
+      "title": "TypeScript Essentials",
+      "slug": "typescript-essentials",
+      "description": "Master TypeScript for better JavaScript development.",
+      "price": 29.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": false,
+      "image": "https://example.com/typescript-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Node.js & Express Complete Guide",
+      "slug": "nodejs-express-guide",
+      "description": "A deep dive into backend development with Node.js and Express.",
+      "price": 59.99,
+      "instructor": "Robert Brown",
+      "isFeatured": true,
+      "image": "https://example.com/nodejs-course.jpg"
+    },
+    {
+      "id": 6,
+      "title": "GraphQL with Apollo",
+      "slug": "graphql-apollo",
+      "description": "Learn GraphQL and Apollo to build powerful APIs.",
+      "price": 44.99,
+      "instructor": "Emily Wilson",
+      "isFeatured": false,
+      "image": "https://example.com/graphql-course.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Advanced CSS & Tailwind",
+      "slug": "advanced-css-tailwind",
+      "description": "Master modern CSS techniques with Tailwind CSS.",
+      "price": 34.99,
+      "instructor": "Michael Lee",
+      "isFeatured": true,
+      "image": "https://example.com/css-tailwind-course.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Docker & Kubernetes for DevOps",
+      "slug": "docker-kubernetes",
+      "description": "A hands-on guide to containerization and orchestration.",
+      "price": 69.99,
+      "instructor": "Sophia Martinez",
+      "isFeatured": true,
+      "image": "https://example.com/docker-kubernetes-course.jpg"
+    }
+  ]
+}
