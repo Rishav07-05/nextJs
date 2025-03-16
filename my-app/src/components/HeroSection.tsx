@@ -23,8 +23,10 @@ const HeroSection = () => {
           {/* Button */}
           <div className="mt-10 sm:mt-14 md:mt-20">
             <Link
-              href="/courses">
-              <button className="px-6 py-3 rounded-full bg-gradient-to-b from-zinc-800 to-zinc-600">Explore Courses</button>
+              href={"/courses"}
+              className="relative z-20 px-4 py-2 sm:px-6 sm:py-3 md:px-8 md:py-4 rounded-full bg-gradient-to-b from-zinc-800 to-zinc-600 text-white font-semibold transition duration-300 hover:opacity-80"
+            >
+              Explore Courses
             </Link>
           </div>
         </BackgroundLines>
