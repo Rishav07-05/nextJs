@@ -16,7 +16,7 @@ interface Course {
 
 const CourseCard = ({ course }: { course: Course }) => {
   return (
-    <BackgroundGradient className="rounded-lg p-6 shadow-md hover:scale-105 transition-transform duration-300">
+    <BackgroundGradient className="rounded-lg p-6 shadow-md hover:scale-105 transition-transform duration-300 ">
       <h2 className="text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-neutral-50 to-zinc-400">
         {course.title}
       </h2>

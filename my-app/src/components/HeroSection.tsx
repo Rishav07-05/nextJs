@@ -4,7 +4,7 @@ import { BackgroundLines } from "./ui/background-lines";
 const HeroSection = () => {
   return (
     <div className="h-auto md:h-screen w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-20 lg:py-32">
-      <div className="relative z-10 w-full text-center px-4 sm:px-8 md:px-16">
+      <div className="relative z-10 w-full text-center px-4 sm:px-8 md:px-16 ">
         <BackgroundLines className="flex items-center justify-center w-full flex-col">
           {/* Heading */}
           <h1 className="mt-20 sm:mt-24 md:mt-0 text-3xl sm:text-5xl md:text-7xl lg:text-9xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-zinc-700">
