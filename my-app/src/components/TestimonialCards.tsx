@@ -44,7 +44,7 @@ const TestimonialCards = () => {
       <h2 className="text-white text-center text-4xl font-bold z-10">
         Hear out Harmony: Voices of Success
       </h2>
-
+      
       <div className="flex justify-center w-full overflow-hidden px-4 sm:px-6 lg:px-8 z-10">
         <div className="w-full max-w-6xl">
           <InfiniteMovingCards
