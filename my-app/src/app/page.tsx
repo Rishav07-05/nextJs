@@ -2,6 +2,7 @@ import FeaturedPage from "@/components/FeaturedPage";
 import HeroSection from "@/components/HeroSection";
 // import PageAnimation from "@/components/PageAnimation";
 import TestimonialCards from "@/components/TestimonialCards";
+import Webinar from "@/components/Webinar";
 
 
 
@@ -12,6 +13,7 @@ export default function Home() {
       <FeaturedPage />
       {/* <PageAnimation /> */}
       <TestimonialCards />
+      <Webinar />
     </main>
   );
 }
