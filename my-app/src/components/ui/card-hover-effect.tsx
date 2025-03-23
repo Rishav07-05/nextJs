@@ -87,7 +87,7 @@ export const CardTitle = ({
   children: React.ReactNode;
 }) => {
   return (
-    <h4 className={cn("text-[#8de4df] font-bold tracking-wide mt-4", className)}>
+    <h4 className={cn("text-[whitesmoke] font-bold tracking-wide mt-4", className)}>
       {children}
     </h4>
   );
@@ -102,7 +102,7 @@ export const CardDescription = ({
   return (
     <p
       className={cn(
-        "mt-8 text-[lightblue] tracking-wide leading-relaxed text-sm",
+        "mt-8 text-[whitesmoke] tracking-wide leading-relaxed text-sm",
         className
       )}
     >

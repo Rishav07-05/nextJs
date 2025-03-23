@@ -1,5 +1,6 @@
 import AnimatedTooltip from "@/components/AnimatedTooltip";
 import FeaturedPage from "@/components/FeaturedPage";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 // import PageAnimation from "@/components/PageAnimation";
 import TestimonialCards from "@/components/TestimonialCards";
@@ -16,6 +17,7 @@ export default function Home() {
       <TestimonialCards />
       <Webinar />
       <AnimatedTooltip />
+      <Footer />
     </main>
   );
 }
