@@ -42,7 +42,7 @@ const FeaturedPage = () => {
   );
 
   return (
-    <div className="h-auto min-h-screen w-full bg-gradient-to-b from-black to-zinc-500 p-5">
+    <div className="h-auto min-h-screen w-full bg-black p-5">
       {/* Heading */}
       <div>
         <h1 className="text-center font-bold text-5xl mt-10 bg-clip-text text-transparent bg-gradient-to-b from-zinc-700 to-neutral-50">
