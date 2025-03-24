@@ -8,7 +8,7 @@
       "price": 49.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "https://example.com/nextjs-course.jpg"
+      "image": "https://imgs.search.brave.com/pWEA5M4Mwo3ClHENgHnEck2IWeyvSYOQADIUm_WP7Eg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWd2/My5mb3Rvci5jb20v/aW1hZ2VzL2Jsb2ct/cmljaHRleHQtaW1h/Z2UvbXVzaWMtYWxi/dW0tY292ZXItb2Yt/TWlkbmlnaHRzLWZy/b20tVGF5bG9yLVN3/aWZ0LndlYnA"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 39.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "https://example.com/react-course.jpg"
+      "image": "https://imgs.search.brave.com/nap_y8fJtWCE10GIzKDCg4qb23SKLSVZnOkVUJEf19Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20vRUFGTnEw/TDJwd0UvNS8wLzE2/MDB3L2NhbnZhLXNp/bXBsZS1waG90b2Nl/bnRyaWMtbXVzaWMt/YWxidW0tY292ZXIt/MV9JbXR1WGZiZFEu/anBn"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 79.99,
       "instructor": "David Miller",
       "isFeatured": true,
-      "image": "https://example.com/mern-course.jpg"
+      "image": "https://imgs.search.brave.com/-Hgh2-I-AUvSa38ujaoncnc3HMf7LwHcoZp9JDrfY70/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDg4/ODc4Njg0L3Bob3Rv/L3RoZS1iZWF0bGVz/LW9yaWdpbmFsLXZp/bnlsLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1ORGJnV1A3/V0FZNC1OWnNjbGxP/bUpxbloyOUdDa1ZJ/OHh0TVpNZG5NQktJ/PQ"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 29.99,
       "instructor": "Alice Johnson",
       "isFeatured": false,
-      "image": "https://example.com/typescript-course.jpg"
+      "image": "https://imgs.search.brave.com/UXuzl5SZkQhHT7bVsyUUgKjgPvWpigCxMwEUht3mesc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDU4/MjMzOTE3L3Bob3Rv/L3RoZS1iZWF0bGVz/LXNpbmdsZS1jb3Zl/cnMuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPXJXNUg4YXVL/VGQ0MFNmT0FqY3Zm/ZVZLaDlCbDdWT3Fo/X3c5cnBoaWJyekU9"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 59.99,
       "instructor": "Robert Brown",
       "isFeatured": true,
-      "image": "https://example.com/nodejs-course.jpg"
+      "image": "https://imgs.search.brave.com/BBqZuE_7xpBfj0qwb7NpbCbWGtadijVYfwfWcDErXrU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20vRUFGd2Z5/OUdyM3cvMS8wLzE2/MDB3L2NhbnZhLWJy/b3duLXZpbnRhZ2Ut/bWluaW1hbGlzdC1t/dXNpYy1hbGJ1bS1j/b3Zlci1BM2h1a2FN/ajNzRS5qcGc"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 44.99,
       "instructor": "Emily Wilson",
       "isFeatured": false,
-      "image": "https://example.com/graphql-course.jpg"
+      "image": "https://imgs.search.brave.com/N1YXp0SfKpdjMALxbiZ2MbYf8YU7EFyFsCyo-PcSyzM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20vRUFHQVJa/SXVFVFkvMS8wLzE2/MDB3L2NhbnZhLXNp/bXBsZS1taW5pbWFs/aXN0LWRyZWFtLWFy/dC1tdXNpYy1hbGJ1/bS1jb3Zlci1XUEhw/Uzc2ZXZHOC5qcGc"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 34.99,
       "instructor": "Michael Lee",
       "isFeatured": true,
-      "image": "https://example.com/css-tailwind-course.jpg"
+      "image": "https://imgs.search.brave.com/NWZpF1BRVPtWxp3NAlxjlHpByGw1svfvfDyYOLrHc6A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91amFu/ZGV5LmdpdGh1Yi5p/by9UQlNNL2ltYWdl/cy9uYW5jaGFrdS1h/cnQucG5n"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 69.99,
       "instructor": "Sophia Martinez",
       "isFeatured": true,
-      "image": "https://example.com/docker-kubernetes-course.jpg"
+      "image": "https://imgs.search.brave.com/GAHa8ThCtNXXyEH8HQsdAYF3T4DACthaD8iFXvOZYoM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90Mi5n/ZW5pdXMuY29tL3Vu/c2FmZS8xNTB4MTUw/L2h0dHBzOi8vaW1h/Z2VzLmdlbml1cy5j/b20vOWMzMGQ4YmFl/OGI1NTkyY2ZmOGRj/ZTVkZDk1OTEyM2Mu/MzAweDMwMHgxLmpw/Zw"
     }
   ]
 }
