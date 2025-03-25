@@ -3,10 +3,10 @@ import React from "react";
 const Page = () => {
   return (
     <div className="min-h-screen w-full bg-gradient-to-b from-black to-zinc-500 pt-40 flex flex-col items-center">
-      <h1 className="text-7xl font-bold text-white text-center mb-10">
+      <h1 className="text-7xl font-bold text-center mb-10 text-[#afb2b3]">
         Contact Us
       </h1>
-      <p className="text-white text-center max-w-2xl leading-relaxed">
+      <p className="text-[#afb2b3] text-center max-w-2xl leading-relaxed">
         We&apos;re here to help with any questions about our courses, programs,
         or events. <br />
         Whether you are a beginner or an experienced musician, our team is ready
