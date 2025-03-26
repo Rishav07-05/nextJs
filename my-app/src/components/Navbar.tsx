@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
+import { HoveredLink, Menu, MenuItem } from "./ui/navbar-menu";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 
@@ -25,9 +25,9 @@ const Navbar = ({ className }: { className?: string }) => {
             <HoveredLink href="/theory">
               Basic Music Theory
             </HoveredLink>
-            <HoveredLink href="/seo">Advanced Composition</HoveredLink>
-            <HoveredLink href="/branding">Songwriting</HoveredLink>
-            <HoveredLink href="/branding">Music Production</HoveredLink>
+            <HoveredLink href="/composition">Advanced Composition</HoveredLink>
+            <HoveredLink href="/songwriting">Songwriting</HoveredLink>
+            <HoveredLink href="/production">Music Production</HoveredLink>
           </div>
         </MenuItem>
         <Link href={"/contact"}>

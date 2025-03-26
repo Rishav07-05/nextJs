@@ -1,13 +1,18 @@
-const Login = () => {
+const Signup = () => {
   return (
     <div className="h-screen w-full bg-gradient-to-b from-gray-900 to-black flex justify-center items-center">
       <div className="w-96 bg-white/10 backdrop-blur-md rounded-3xl border border-white/20 p-8 shadow-lg">
         <h1 className="text-center text-4xl text-white font-extrabold mb-2">
-          Welcome Back!
+          Create an Account
         </h1>
-        <p className="text-center text-gray-300 mb-6">Sign in to continue</p>
+        <p className="text-center text-gray-300 mb-6">Join Music World today</p>
 
         <form className="w-full space-y-5">
+          <input
+            type="text"
+            placeholder="Username"
+            className="h-12 w-full bg-white/10 border border-white/20 rounded-lg px-4 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          />
           <input
             type="email"
             placeholder="Email"
@@ -19,24 +24,24 @@ const Login = () => {
             className="h-12 w-full bg-white/10 border border-white/20 rounded-lg px-4 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
 
-          <div className="flex justify-between text-sm text-gray-300">
-            <label className="flex items-center gap-2 cursor-pointer">
-              <input type="checkbox" className="accent-blue-500" />
-              Remember me
-            </label>
-            <a href="#" className="text-blue-400 hover:underline">
-              Forgot password?
-            </a>
+          <div className="flex items-center gap-2 text-gray-300 text-sm">
+            <input type="checkbox" className="accent-blue-500" />
+            <span>
+              I agree to the{" "}
+              <a href="#" className="text-blue-400 hover:underline">
+                Terms & Conditions
+              </a>
+            </span>
           </div>
 
           <button className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg py-3 transition duration-200 shadow-md">
-            Login
+            Sign Up
           </button>
 
           <p className="text-center text-gray-300 mt-4">
-            Don&apos;t have an account?{" "}
-            <a href="/signup" className="text-blue-400 hover:underline">
-              Sign up
+            Already have an account?{" "}
+            <a href="login" className="text-blue-400 hover:underline">
+              Login
             </a>
           </p>
         </form>
@@ -45,4 +50,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default Signup;
