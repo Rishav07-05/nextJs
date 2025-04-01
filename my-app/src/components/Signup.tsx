@@ -5,7 +5,7 @@ const Signup = () => {
         <h1 className="text-center text-4xl text-white font-extrabold mb-2">
           Create an Account
         </h1>
-        <p className="text-center text-gray-300 mb-6">Join Music World today</p>
+        <p className="text-center text-gray-300 mb-6">Join virtual study World </p>
 
         <form className="w-full space-y-5">
           <input

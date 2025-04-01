@@ -8,16 +8,16 @@ const HeroSection = () => {
         <BackgroundLines className="flex items-center justify-center w-full flex-col">
           {/* Heading */}
           <h1 className="mt-20 sm:mt-24 md:mt-0 text-3xl sm:text-5xl md:text-7xl lg:text-9xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-zinc-700">
-            Master the art of music
+            Learn about Virtual Study
           </h1>
 
           {/* Description */}
           <p className="mt-6 sm:mt-8 md:mt-10 font-normal text-sm sm:text-base md:text-xl lg:text-2xl text-neutral-300 max-w-xs sm:max-w-xl md:max-w-3xl lg:max-w-4xl mx-auto text-center leading-relaxed sm:leading-loose">
-            Master the art of music by exploring melody, harmony, and rhythm.
-            Develop your skills in composition, songwriting, and production
-            while understanding musical theory. Unlock creativity and express
-            emotions through sound, making music a powerful language of
-            expression.
+            Embark on an immersive online study journey, exploring essential
+            concepts with interactive lessons, AI-powered tools, and
+            collaborative platforms. Develop skills in various fields through
+            structured courses, real-time feedback, and engaging digital
+            resources.
           </p>
 
           {/* Button */}
